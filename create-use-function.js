@@ -43,4 +43,4 @@ for (let i = 0; i <= fileStar.length-1;i++) {
         break;
     }
 }
-alert(s)
+alert(s);
